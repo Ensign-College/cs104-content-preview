@@ -80,13 +80,13 @@
 
 ```mermaid
 graph LR
-  CPU[CPU (Brain)] --> OS[Operating System]
-  RAM[Memory] --> OS
-  Storage[Storage] --> OS
-  OS --> App1[Word Processor]
-  OS --> App2[Game]
-  App1 --> File1[My Documents]
-  App2 --> File2[Games]
+  CPU["CPU (Brain)"] --> OS["Operating System"]
+  RAM["Memory"] --> OS
+  Storage["Storage"] --> OS
+  OS --> App1["Word Processor"]
+  OS --> App2["Game"]
+  App1 --> File1["My Documents"]
+  App2 --> File2["Games"]
 ```
 
 **Try it! Activity:**
