@@ -453,7 +453,8 @@ graph TD
 
 ```mermaid
 flowchart TD
-  Start --> Ask[Input: "What is your name?"] --> Show[Print: "Hello, <name>!"]
+  Start --> Ask["Input: What is your name?"]
+  Ask --> Show["Print: Hello, name!"]
 ```
 
 **Try it! Activity:**
