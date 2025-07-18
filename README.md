@@ -1,4 +1,4 @@
-# CS 104: Introduction to Programming – Reimagined Curriculum (7 Weeks)
+# CS 104: Foundations of Applied Programming – Reimagined Curriculum (7 Weeks)
 
 ## �� Week 1: Basic Computer & Terminal Skills
 - Lesson 1.1: What is a Computer? (Intro + Desktop Navigation)
