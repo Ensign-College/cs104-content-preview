@@ -282,7 +282,8 @@ sequenceDiagram
 
 ```mermaid
 graph LR
-  A[hello.txt]-->|Change|B[git add]|-->|git commit|C[History]
+  A[hello.txt] -->|Change| B[git add]
+  B -->|git commit| C[History]
 ```
 
 **Try it! Activity:**
